@@ -16,10 +16,10 @@
 
 ## Goal of the APP DEV INNOVATION Program for FEMALES in the ENTIRE ECOSYSTEM over Generations
 
-The goal is to show all Females of any generation, that anything is possible also in the area of Tech and to lit the fire in each of every Female to find the spark in Tech. We want to connect all generations of Females whether it's pupils, university students or professionals already performing in jobs. Further we want to connect those generations which haven't gotten in touch with Tech yet. Since we noticed that there is a huge gap between the communities and there aren't enough Female Tech Heros. 
+The goal is to show all Females of any generation, that anything is possible also in the area of Tech and to lit the fire in each of every Female to find the spark in Tech. We want to connect all generations of Females whether it's pupils, university students or professionals already performing in jobs. Further we want to connect those generations which haven't gotten in touch with Tech yet. Since we noticed that there is a huge gap between the communities and there aren't enough Female Tech Heroes. 
 
-But you can start in any age, so we thought of starting with a commonality: building an App on our phone which can take pictures and which we can talk to or in other (tech) words: how to build a progressive Web App on our Phone which uses pre-trained machine learning models as restful endpoints. The Application uses REST APIs and we will use Azure to meet the challenge to get it running.
-To close the gap we will first start with getting the application to run and then secondly integrate the ML REST APIs. As a place where we can create our Tech Dreams we will use Github create our space of collaboration as our motto always is: Sharing is Caring!
+But you can start at any age, so we thought of starting with a commonality: building an App on our phone which can take pictures and which we can talk to or in other (tech) words: how to build a progressive Web App on our Phone which uses pre-trained machine learning models as restful endpoints. The Application uses REST APIs and we will use Azure to meet the challenge to get it running.
+To close the gap we will first start with getting the application to run and then secondly integrate the ML REST APIs. As a place where we can create our Tech Dreams, we will use Github to create our space of collaboration, as our motto always is: Sharing is Caring!
 
 <div align="center">
   <p></p>
